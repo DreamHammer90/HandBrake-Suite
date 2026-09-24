@@ -1,0 +1,23 @@
+{
+  "repo": "handbrake-suite",
+  "product": "HandBrake Suite",
+  "kind": "video",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "video-editing",
+  "topics": [
+    "handbrake",
+    "handbrake-windows",
+    "video-editing-desktop",
+    "how-to-install-handbrake",
+    "handbrake-desktop-package",
+    "handbrake-workspace",
+    "handbrake-pro-tools",
+    "handbrake-suite",
+    "zentool-handbrake",
+    "handbrake-tool-9"
+  ],
+  "site": "zentool.art"
+}
